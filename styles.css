@@ -1,0 +1,118 @@
+body { 
+    background: #FDEAD2
+}
+
+main{
+    display: grid;
+    margin-left: 30em;
+    margin-right: 30em;
+}
+
+h1{
+    color: #F35F18;
+    font-size: 4em;
+    font-family: 'Gabarito', cursive;
+ }
+
+h2 {
+    margin-top: 3em;
+    font-family: 'Gabarito', cursive;
+    font-weight: 600;
+ }
+
+h3 {
+    margin-top: 2em;
+    font-family: 'Gabarito', cursive;
+    font-weight: 500;
+ }
+p{
+    font-family: 'Gabarito', cursive;
+    font-weight: 400;
+}
+
+img{
+    width: 30em;
+    }
+
+a { 
+    color: #F35F18;
+}
+
+cite { 
+    font-family: 'Gabarito', cursive;
+}
+
+.special1 { 
+    width: 19em;
+}
+
+.special2 { 
+    width: 22em;
+}
+
+.special3 { 
+    width: 3em;
+}
+
+.special4 { 
+    width: 5.5em;
+}
+
+.special5 { 
+    width: 8em;
+}
+
+
+
+.quote {
+    color: #F35F18;
+	max-width: 100%;
+    font-family: 'Gabarito', cursive;
+}
+
+.stylebook img:hover {
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: transform .5s;
+}
+
+.inactie img:hover {
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: transform .5s;
+}
+
+.hooverel img:hover {
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: transform .5s;
+}
+
+.testv p:hover {
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: transform .5s;
+}
+
+.geschiedenis:hover { 
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: transform .5s;
+}
+
+.footer {
+    font-family: 'Gabarito', cursive;
+    margin-top: 70px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 1px solid var(--horizontal_rule_color);
+}
+
+footer { 
+font-size: 0.7em;
+}
